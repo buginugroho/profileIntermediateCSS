@@ -1,0 +1,228 @@
+
+body{
+  background-color: #b4ff82;
+  margin: 0;
+}
+
+h1{
+  color: #f3ff59;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5em;
+  width: 60%;
+  margin: 0 auto;
+}
+
+h2{ /*tulisan profil diri*/
+  color: #249c75;
+  font-size: 4.5em;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+h3{
+  color: #249c75;
+  font-size: 3em;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin: 0.5em auto;
+}
+
+h4{ /*tulisan calon developer*/
+  color: #f3ff59;
+  font-family: 'Signika', sans-serif;
+  font-size: 2em;
+  font-weight: normal;
+  margin: 0.5em auto 0;
+  width: 40%;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 0.5em;
+  border-color: #63ff8e;
+  width: 7%;
+}
+
+#black-bar{
+  background-color: #249c75;
+  position: relative;
+  height: 4em;
+}
+
+#upper-page{
+  background-color: #63ff8e;
+  position: relative;
+  height: 8em;
+}
+
+#front-page{
+  background-color: #63ff8e;
+  height: 37.5em;
+  position: relative;
+  text-align: center;
+}
+
+.mini-pic{
+  position: absolute;
+  border-color: #c9ffd8;
+  border-style: solid;
+  border-width: thick;
+  left: 5em;
+  bottom: 0;
+  border-radius: 100%;
+  height: 6em;
+  width: 6em;
+}
+
+.menu-button-top{
+  color: #249c75;
+  position: absolute;
+  font-family: 'Signika', sans-serif;
+  font-size: 1.3em;
+  text-decoration: none;
+  top: 3em;
+  right: 1.5em;
+}
+
+.b4{
+  right: 6.5em;
+}
+
+.b3{
+  right: 13.5em;
+}
+
+.b2{
+  right: 19.5em;
+}
+
+.b1{
+  right: 24em;
+}
+
+.programmer-pic{
+  display: inline-block;
+  margin: 1em auto 0;
+  height: 25.8em;
+  width: 37.5em;
+}
+
+.deskripsi{
+  color: #249c75;
+  font-family: 'Bree Serif', serif;
+  font-size: 1.25em;
+  line-height: 2;
+  margin-bottom: 4em;
+}
+
+#description-page{
+  position: relative;
+  text-align: center;
+}
+
+.riwayat-pendidikan{
+  position: relative;
+}
+
+.pengalaman-organisasi{
+  position: relative;
+}
+
+.mata-kuliah-ditempuh{
+  position: relative;
+}
+
+.deskripsi-diri{
+  width: 55%;
+  margin: 0 auto;
+}
+
+.riwayat-pendidikan{
+  height: 25em;
+  margin: 0 3em 5em 3em;
+  padding-top: 2em;
+  text-align: left;
+}
+
+.pengalaman-organisasi{
+  height: 25em;
+  margin: 0 3em 5em 3em;
+  padding-top: 2em;
+  text-align: left;
+}
+
+.mata-kuliah-ditempuh{
+  height: 25em;
+  margin: 0 3em 5em 3em;
+  padding-top: 2em;
+  text-align: left;
+}
+
+.description-pic{
+  margin: 3em auto 0em;
+  border-color: #249c75;
+  border-style: solid;
+  border-radius: 100%;
+  padding: 0.25em;
+  width: 20em;
+  height: 20em;
+}
+
+.pendidikan-pic{
+  float: left;
+  margin: 2em auto;
+  margin-right: 2em;
+}
+
+.organisasi-pic{
+  float: right;
+  margin: 2em auto;
+  margin-left: 2em;
+}
+
+.matkul-pic{
+  float: left;
+  margin: 2em auto;
+  margin-right: 2em;
+}
+
+#bottom-menu{
+  background-color: #63ff8e;
+  height: 12em;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 10em;
+  padding-top: 1.3em;
+}
+
+.bottom-menu-line{
+  border-style: none;
+  border-top-style: solid;
+  border-width: 0.125em;
+  border-color: #249c75;
+  width: 15%;
+}
+
+.menu-button-bottom{
+  color: #249c75;
+  font-family: 'Signika', sans-serif;
+  margin: 0 0.3em;
+  text-decoration: none;
+}
+
+.social-media{
+  color: #f3ff59;
+  font-family: 'Signika', sans-serif;
+  margin: 0 0.725em;
+  text-decoration: none;
+}
+
+.menu-button-line{
+  font-size: 1.3em;
+  margin-bottom: 0.75em;
+}
+
+.social-media-line{
+  font-size: 1.5em;
+  margin-top: 0.75em;
+  margin-bottom: 0.625em;
+}
